@@ -1,0 +1,2 @@
+[20-Dec-2022 07:35:32 America/Chicago] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home4/dstardpu/onpriceinfo.com/Admin/Dashboard/mailer/PHPMailerAutoload.php on line 45
+[20-Dec-2022 07:49:06 America/Chicago] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home4/dstardpu/onpriceinfo.com/Admin/Dashboard/mailer/PHPMailerAutoload.php on line 45
