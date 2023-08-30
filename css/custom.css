@@ -1,0 +1,62 @@
+
+
+.prologo {
+    height: 130px;
+    width: 130px;
+    margin-left: 38%;
+    margin-bottom: 2%;
+}
+
+.ajay {
+    font-size: 22px;
+    color: green;
+}
+
+.d {
+    background-color: #d9edf7;
+    border: 1px solid black;
+}
+
+.i {
+    border: 1px solid black;
+}
+
+.text {
+    color: #1261a0;
+}
+
+.v {
+    color: #3498DB;
+    font-weight: bold;
+}
+
+.vijay {
+    border-right: 1px solid black;
+}
+
+.pooja {
+    font-size: 3rem;
+    border-bottom: 1px black dotted;
+}
+
+.vineet {
+    background-color: #d9edf7;
+}
+
+span {
+    color: black;
+}
+
+.FD {
+    color: #1261a0;
+}
+
+.m {
+    margin-left: 4%;
+}
+
+.f {
+    color: red;
+    font-weight: bold;
+}
+
